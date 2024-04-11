@@ -1,8 +1,8 @@
-##PIZZA-SALES-DASHBOARD-REPORT---EXCEL
+#PIZZA-SALES-DASHBOARD-REPORT---EXCEL
 
 ![pizza dashboard](https://github.com/dimpal-singh/PIZZA-SALES-DASHBOARD-REPORT---EXCEL/assets/132731703/0cadf6b7-12a2-42b8-8150-dd6706610222)
 
-# Pizza Sales Dashboard Readme
+##Pizza Sales Dashboard Readme
 
 This readme file provides an overview of the Pizza Sales Dashboard report, outlining the steps taken to analyze key indicators, create insightful visualizations, and meet the specified KPI requirements.
 
